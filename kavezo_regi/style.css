@@ -1,3 +1,69 @@
+
+
+body{
+    background-image: url(PA_SEO_605_Lucky-Charms-for-Your-Motivation-and-Inspiration.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+
+h1, h2{
+    font-family: Verdana;
+}
+
+div{
+    width: 600px;
+}
+
+table{
+    border: solid 3px gray;
+    border-radius: 10px;
+    border-style: groove;
+    margin:auto;
+    padding: 1px;
+}
+
+td{
+    border: solid 3px gray;
+    border-radius: 10px;
+    border-style:ridge;
+    margin:auto;
+    padding: 3px;
+    border-spacing: 5px;
+}
+
+.center{
+    margin:auto;
+}
+
+ul{
+    margin: auto;
+}
+
+.magassag{
+    height:250px;
+}
+
+.bal{
+    margin-left:200px;
+    float:left;
+}
+
+.jobb{
+    margin-right:200px;
+    float:right;
+}
+
+.uli{
+    text-decoration: underline;
+}
+
+a{
+    color:white;
+}
+
 #apad{
     background-image: url(hatter2.jpg);
     background-attachment: fixed;
